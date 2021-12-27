@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanisha Mittal
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding and Hacking.
 - 🌱 I’m currently learning Machine Learning, Artificial Intelligence.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me tanishaagrawal2015@gmail.com
